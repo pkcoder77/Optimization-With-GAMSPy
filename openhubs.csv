@@ -1,0 +1,6 @@
+Provider.PIN,Hub.ID,HERC.Number,county,FIPS,county.pop,Org.Name,ULT.capacity,ULT.flag,p.ulo,m.ulo,p.einv,m.einv,cap.cat
+778094,778094,1,Eau Claire,55035,103301,Region 1 Hub - Eau Claire,2.00E+05,1,300,,300,,1
+778095,778095,2,Wood,55141,73975,Region 2 Hub - Marshfield,150000,1,210,,210,,1
+778096,778096,3,Brown,55009,261232,Region 3 Hub - Green Bay,35100,1,210,,210,,1
+778097,778097,5,Dane,55025,533360,Region 5 Hub - Madison,195000,1,420,500,420,500,1
+778098,778098,7,Milwaukee,55079,950358,Region 7 Hub - Milwaukee,150000,1,420,,420,,1
